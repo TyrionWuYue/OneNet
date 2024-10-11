@@ -22,7 +22,7 @@ done
 
 
 
-
+# python -u main.py --method 'onenet_fsnet' --root_path ./data/ --n_inner 1 --test_bsz 1 --data ECL --features M --seq_len 60 --label_len 0 --pred_len 48 --des 'Exp' --itr 1 --train_epochs 15 --learning_rate 3e-3 --online_learning 'full'
 
 
 
